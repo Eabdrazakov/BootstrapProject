@@ -2,6 +2,8 @@
 
 #### By _Ermek Abdrazakov_
 
+### Open [gh-page site](https://eabdrazakov.github.io/BootstrapProject/)
+
 #### _A simple HTML,CSS with bootstrap wed page_
 
 ## Technologies Used
